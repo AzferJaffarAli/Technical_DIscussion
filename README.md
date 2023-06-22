@@ -8,4 +8,4 @@ Repository for sharing ideas based on communication
 
 ### Gist
 
-A Python Gist for Basic Calculations [Code](https://gist.github.com/AzferJaffarAli/2d8797d7f36f62914e9a296c95a13eef)
+A Python Gist for Basic Calculations [Click Here](https://gist.github.com/AzferJaffarAli/2d8797d7f36f62914e9a296c95a13eef)
